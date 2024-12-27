@@ -1,0 +1,27 @@
+{
+  "pom.xml": {
+    "run": "mvn spring-boot:run",
+    "test": "mvn test",
+    "build": "mvn package"
+  },
+  "go.mod": {
+    "run": "go run ./...",
+    "test": "go test ./...",
+    "build": "go build ."
+  },
+  "Cargo.toml": {
+    "run": "cargo run",
+    "test": "cargo test",
+    "build": "cargo build"
+  },
+  "package.json": {
+    "run": "npm run dev",
+    "test": "npm run test",
+    "build": "npm run build"
+  },
+  "build.gradle.kts": {
+    "run": "gradle bootRun",
+    "build": "gradle build",
+    "test": "gradle test"
+  }
+}

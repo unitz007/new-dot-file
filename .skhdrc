@@ -1,0 +1,11 @@
+# App Shortcuts
+ctrl - g : open -a 'Goland'
+ctrl - v : open -a 'Visual Studio Code'
+ctrl - z : open -a 'Zed'
+ctrl - b : open -a 'Safari'
+ctrl - s : open -a 'Settings'
+ctrl - t : open -a 'iTerm'
+ctrl - m : open -a 'Mail'
+ctrl - p : open -a 'Postman'
+ctrl - w : open -a 'Whatsapp'
+ctrl - f : open -a 'Finder'

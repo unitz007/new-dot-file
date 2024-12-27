@@ -1,0 +1,13 @@
+home:
+  - .zshrc
+  - .sdlc.json
+  - cloud-init.yaml
+  - .skhdrc
+  - .oh-my-posh-theme.json
+  - .aerospace.toml
+  - .config:
+      - fish
+      - nvim
+      - zed
+      - tmux:
+          - tmux.conf
