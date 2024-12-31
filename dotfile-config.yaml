@@ -6,6 +6,7 @@ home:
   - .oh-my-posh-theme.json
   - .aerospace.toml
   - .config:
+      - testVal;
       - yazi:
           - yazi.toml
           - keypad.toml
