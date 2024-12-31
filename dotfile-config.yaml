@@ -10,8 +10,8 @@ home:
           - yazi.toml
           - keypad.toml
           - theme.toml
-      - fish
-      - nvim
-      - zed
+      - fish;
+      - nvim;
+      - zed;
       - tmux:
           - tmux.conf
